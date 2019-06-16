@@ -1,2 +1,2 @@
-# T_sne
-T-sne algorithm
+# t_sne
+t-sne algorithm
